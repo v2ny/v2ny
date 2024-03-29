@@ -1,6 +1,8 @@
 <br clear="both">
 
-<h2 align="left">Hi! I'm resu call me res 🫠 — I mostly use Rust & Typescript 🦀 —  my repos are mostly private 👀🔪<br><br>✨ — ヾ(≧▽≦*)o — ✨</h2>
+<h2 align="left">Hi! I'm resu call me res 🫠 — I mostly use Rust & Typescript 🦀</h2>
+<h3 align="left">My repos are mostly private 👀🔪</h3>
+<h4 align="left">✨ — ヾ(≧▽≦*)o — ✨</h4>
 
 ###
 
