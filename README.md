@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi! I'm resu call me res 🫠 — I mostly use Rust & Typescript 🦀</h2>
+<h2 align="left">Hi! I'm reyu 🫠 — I mostly use Rust & Typescript 🦀 (Ex C++ programmer)</h2>
 <h3 align="left">My repos are mostly private 👀🔪</h3>
 <h4 align="left">✨ — ヾ(≧▽≦*)o — ✨</h4>
 
@@ -9,9 +9,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r-esu&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r-esu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gruvbox_light&hide_border=true&custom_title=This%20is%20my%20~bootiful~%20%E2%9C%A8%20languages%20that%20i%20use" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=r-esu&locale=en&mode=daily&theme=gruvbox_light&hide_border=true&border_radius=4" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=re1yu&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=re1yu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gruvbox_light&hide_border=true&custom_title=This%20is%20my%20~bootiful~%20%E2%9C%A8%20languages%20that%20i%20use" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=re1yu&locale=en&mode=daily&theme=gruvbox_light&hide_border=true&border_radius=4" height="170" alt="streak graph"  />
 </div>
 
 ###
@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/r-esu/r-esu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/re1yu/re1yu/output/snake.svg" alt="Snake animation" />
 
 ###
