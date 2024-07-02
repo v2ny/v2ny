@@ -11,7 +11,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=re1yu&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=re1yu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gruvbox_light&hide_border=true&custom_title=This%20is%20my%20~bootiful~%20%E2%9C%A8%20languages%20that%20i%20use" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=re1yu&locale=en&mode=daily&theme=gruvbox_light&hide_border=true&border_radius=4" height="170" alt="streak graph"  />
 </div>
 
 ###
@@ -34,14 +33,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.youtube.com/channel/UC-cUa1hCPncGJ3gAdzyZuBQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=@rqsu&color=ff1100&logoColor=black&labelColor=ffffff&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discordapp.com/users/135237399667015680" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=@r5su&color=0059ff&logoColor=black&labelColor=ffffff&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
 
 ###
 
