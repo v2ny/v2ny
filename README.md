@@ -25,8 +25,7 @@ I'm **Veni** a.k.a **v2ny**, a 16-year-old coding prodigy mastering the art of g
 ## 📈 Epic Stats & Visuals  
 I love breaking down data like a master strategist! Here are some cool visuals, from GitHub stats to project performance graphs:
 
-- GitHub Stats: ![Veni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v2ny&show_icons=true&theme=radical)
-- Project Contributions: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v2ny&layout=compact&theme=radical)
+![Veni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v2ny&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v2ny&layout=compact&theme=radical)
 
 ---
 
